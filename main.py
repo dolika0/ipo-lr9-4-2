@@ -7,4 +7,8 @@ koord2 = input("Введите координаты верхнего право�
 
 spisok = []
 
+spisok.append(koord1)
+spisok.append(koord2)
+print(spisok)
+
 isCorrectRect(koord1,koord2)
